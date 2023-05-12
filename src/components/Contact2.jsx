@@ -3,7 +3,7 @@ import location from "../assests/location.png";
 import email from "../assests/email.png";
 import phone from "../assests/phone-call.png";
 import * as BsIcons from "react-icons/bs";
-const Connect = () => {
+const Contact2 = () => {
   return (
     <div className="flex  flex-col max-sm:invisible  justify-center left-16 max-sm:left-0  items-center w-[400px] max-sm:w-[380px]  h-[510px] bg-[#042739] shadow-2xl rounded-lg absolute">
         <div className=" mt-3 mb-8">
@@ -41,4 +41,4 @@ const Connect = () => {
   )
 }
 
-export default Connect
+export default Contact2

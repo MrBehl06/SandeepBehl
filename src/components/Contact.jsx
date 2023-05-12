@@ -8,7 +8,8 @@ import * as BsIcons from "react-icons/bs";
 import emailjs from '@emailjs/browser';
 import { ToastContainer, toast } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
-import Connect from "./connect";
+import Contact2 from "./contact2";
+
 
 const Contact = () => {
   
@@ -47,7 +48,7 @@ const Contact = () => {
 
   return (
     <div className="container mx-auto  mb-8 h-auto w-full mt-[100px] max-sm:mt-[1px] flex max-sm:flex-col  items-center justify-center relative max-sm:static  ">
-      <Connect />
+      <Contact2 />
       <div className="w-[850px] h-[600px] max-sm:w-[350px] max-sm:h-[590px] bg-[#233E4E] rounded-md shadow-2xl">
       <form ref={form} className="flex max-sm:flex-col h-auto items-center justify-end max-sm:justify-center  mr-6 max-sm:mr-0 mt-10 "action=""
       onSubmit={sendEmail}>
