@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Montserrat:wght@500&family=Poppins:wght@300;500&family=Roboto&display=swap');
+@tailwind base;
+
+*::-webkit-scrollbar {
+    width: 15px;
+  }
+  *::-webkit-scrollbar-track {
+    background: #041C32;
+    
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #38BDF8 ;
+    height: 5px;
+    border-radius: 5px;
+  }
+@tailwind components;
+@tailwind utilities;
