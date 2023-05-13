@@ -27,7 +27,7 @@ const About = () => {
           <p className="mb-5">
             Welcome to my website! My name is
             <span className="text-sky-400 font-Roboto mr-1"> Sandeep Behl</span>
-            and I am a web developer. I specialize in designing and developing
+            and I am a web developer. I am specialize in designing and developing
             dynamic websites that are both visually appealing and functional.
           </p>
           <p className="mb-5">
@@ -36,7 +36,7 @@ const About = () => {
             devices.
           </p>
           <p className="mb-5"> 
-            I am passionate about web development and am constantly learning new
+            I am passionate about web development and constantly learning new
             technologies and techniques to stay up-to-date with the latest
             trends. Browse my portfolio and contact me to discuss your web
             development needs.

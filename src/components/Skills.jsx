@@ -7,7 +7,7 @@ import Design from "./Design";
 
 const Skills = () => {
   return (
-    <div className="container mx-auto h-auto flex flex-col items-center justify-center w-full mt-[250px] max-sm:mt-[100px] ">
+    <div className="container mx-auto h-auto flex flex-col items-center justify-center w-full mt-[200px] max-sm:mt-[100px] ">
       <div className="mb-8 max-sm:flex  max-sm:flex-col max-sm:items-center ">
         <h2 className="text-7xl max-sm:text-[45px] text-[#ccd6f6] text-center font-Poppins cursor-pointer hover:text-sky-400 font-bold mb-5">
           Skills and Technologies
