@@ -5,7 +5,7 @@ import phone from "../assests/phone-call.png";
 import * as BsIcons from "react-icons/bs";
 const Connect2Mobile = () => {
   return (
-    <div className="flex  flex-col justify-center  mx-auto  items-center  max-sm:w-[370px]  h-[510px] bg-[#042739] shadow-2xl rounded-lg">
+    <div className="flex  flex-col justify-center  mx-auto  items-center  max-sm:w-[340px]  h-[510px] bg-[#042739] shadow-2xl rounded-lg">
         <div className=" mt-3 mb-8">
           <h2 className="text-white font-semibold text-[30px]">Contact</h2>
         </div>

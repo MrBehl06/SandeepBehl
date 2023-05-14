@@ -5,6 +5,7 @@ const Projects = () => {
   return (
     <div className="container mx-auto  h-auto w-full mt-[180px] ">
      <Project/>
+     
     </div>
   );
 };
