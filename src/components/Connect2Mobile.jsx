@@ -24,14 +24,14 @@ const Connect2Mobile = () => {
           </div>
         </div>
         <div className="flex w-[250px] justify-between items-center mb-3">
-          <div>
-            <BsIcons.BsInstagram color="white" size="2rem"  className="transition duration-150 ease-in-out hover:translate-y-[-2px] hover:rotate-45" />
+           <div>
+            <a href="https://www.instagram.com/mr_behl1/"><BsIcons.BsInstagram color="white" size="2rem"  className="transition duration-150 ease-in-out hover:translate-y-[-2px] hover:rotate-45" /></a>
           </div>
           <div>
-            <BsIcons.BsGithub color="white" size="2rem"   className="transition duration-100 ease-in-out hover:translate-y-[-2px] hover:rotate-45"/>
+            <a href="https://github.com/MrBehl06"><BsIcons.BsGithub color="white" size="2rem"   className="transition duration-100 ease-in-out hover:translate-y-[-2px] hover:rotate-45"/></a>
           </div>
           <div>
-            <BsIcons.BsLinkedin color="white" size="2rem"  className="transition duration-100 ease-in-out hover:translate-y-[-2px] hover:rotate-45"  />
+           <a href="https://www.linkedin.com/in/sandeep-behl-832302209/"> <BsIcons.BsLinkedin color="white" size="2rem"  className="transition duration-100 ease-in-out hover:translate-y-[-2px] hover:rotate-45"  /></a>
           </div>
           <div>
             <BsIcons.BsFacebook color="white" size="2rem"  className="transition duration-100 ease-in-out hover:translate-y-[-2px] hover:rotate-45" />

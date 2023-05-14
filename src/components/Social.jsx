@@ -6,7 +6,7 @@ import * as BsIcons from "react-icons/bs";
 
 const Social = () => {
   return (
-    <div className="flex  flex-col max-sm:invisible  justify-center left-16 max-sm:left-0  items-center w-[400px] max-sm:w-[320px]  h-[510px] bg-[#042739] shadow-2xl rounded-lg absolute">
+    <div className="flex  flex-col max-sm:invisible sm:mx-auto justify-center left-16 max-sm:left-0  items-center w-[400px] max-sm:w-[300px]  h-[510px] bg-[#042739] shadow-2xl rounded-lg absolute">
         <div className=" mt-3 mb-8">
           <h2 className="text-white font-semibold text-[30px]">Contact</h2>
         </div>

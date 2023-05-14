@@ -75,7 +75,7 @@ export const projectData = [
     id: 2,
     title: "Youtube Clone",
     description:
-      "Developed a Youtube Clone using technologies such as React,RapidAPI etc.This video sharing platform is designed to be fully responsive, enabling users to easily search, play, andwatch videos on any device.",
+      "This video sharing platform is designed to be fully responsive, enabling users to easily search, play, and watch videos on any device.",
     icons: [
       {
         id: 201,
