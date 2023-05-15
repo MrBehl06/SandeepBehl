@@ -3,7 +3,7 @@ import React from 'react'
 const Design = () => {
   return (
     <div className=''>
-        <div className=' h-[500px] w-[500px] relative  max-sm:h-[340px] max-sm:w-[340px]   ' >
+        <div className=' h-[500px] w-[500px] relative  max-sm:h-[320px] max-sm:w-[320px]   ' >
         {/* <div className='h-[400px] w-[400px] border-[60px] top-[20%] rounded-xl left-[20%] animate-reverse-spin  absolute '>
 
         </div>  */}
@@ -41,7 +41,7 @@ const Design = () => {
         </div>  
         
         </div> 
-         <div className='max-sm:h-[340px] max-sm:w-[340px]  h-[500px]  w-[500px] border-sky-400   border-[10px]  animate-spin-slow rounded-full border-dotted'>
+         <div className='max-sm:h-[320px] max-sm:w-[320px]  h-[500px]  w-[500px] border-sky-400   border-[10px]  animate-spin-slow rounded-full border-dotted'>
          </div>
     </div>
     </div>

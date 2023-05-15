@@ -8,7 +8,7 @@ const Project = () => {
         <h2 className="text-7xl max-sm:text-[45px] text-center text-[#ccd6f6] font-Poppins cursor-pointer hover:text-sky-400  font-bold mb-5">
           Some Things I've Build
         </h2>
-        <hr className=" w-[850px] max-sm:w-[370px]  mx-auto max-sm:mx-0 h-px my-[8px]  bg-gradient-to-r  from-sky-400 to-[#041C32] border-0 rounded " />
+        <hr className=" w-[850px] max-sm:w-[300px]  mx-auto max-sm:mx-0 h-px my-[8px]  bg-gradient-to-r  from-sky-400 to-[#041C32] border-0 rounded " />
       </div>
       <div className="flex mt-8 relative shadow-3xl ">
         <div className=''>
