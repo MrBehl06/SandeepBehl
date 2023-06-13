@@ -26,15 +26,15 @@ const OtherProjects = () => {
         </div>
         <div className={`grid grid-cols-3 gap-y-3.5 p-2 max-sm:grid-cols-1 w-[1100px] max-sm:w-auto ${length} overflow-hidden `}>
           {projectData.map((obj) => {
-            const { title, description, tech, icons } = obj;
+            const { title, description, tech, icons,git,sitLink } = obj;
             return (
               <div className="w-[350px] max-sm:w-[320px] h-[350px] bg-[#233E4E] transition ease-in-out delay-150 shadow-md hover:shadow-sky-400 flex items-center rounded-xl hover:translate-y-[-2px]  " key={obj.id}>
                 <div className="p-4">
                   <div className="flex justify-between items-center mb-4">
                     <div>{icons[0].icon1}</div>
                     <div className="flex ">
-                      {icons[0].icon2}
-                      {icons[0].icon3}
+                      <a href={git}>{icons[0].icon2}</a>
+                      <a href={sitLink}>{icons[0].icon3}</a>
                     </div>
                   </div>
                   <div className="font-Roboto mb-4 ">

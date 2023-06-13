@@ -70,6 +70,8 @@ export const projectData = [
         title: "OpenWeatherAPI",
       },
     ],
+    git:"https://github.com/MrBehl06/Cloud",
+    sitLink:"https://mrbehl06.github.io/Cloud/"
   },
   {
     id: 2,
@@ -120,6 +122,8 @@ export const projectData = [
         title: "Rapid API",
       },
     ],
+    git:"https://github.com/MrBehl06/Youtube_Clone",
+    sitLink:"https://github.com/MrBehl06/Youtube_Clone"
   },
   {
     id: 3,
@@ -166,6 +170,8 @@ export const projectData = [
         title: "JavaScript",
       },
     ],
+    git:"https://github.com/MrBehl06/SnakeGame",
+    sitLink:"https://mrbehl06.github.io/SnakeGame/"
   },
   {
     id: 4,
@@ -212,6 +218,8 @@ export const projectData = [
         title: "JavaScript",
       },
     ],
+    git:"https://github.com/MrBehl06/Calculator",
+    sitLink:"https://mrbehl06.github.io/Calculator/"
   },
   {
     id: 5,
@@ -258,5 +266,7 @@ export const projectData = [
         title: "JavaScript",
       },
     ],
+    git:"https://github.com/MrBehl06/To-Do-List",
+    sitLink:"https://mrbehl06.github.io/To-Do-List/"
   },
 ];

@@ -4,9 +4,10 @@ import hoobank from "../assests/HooBank.png"
 const Project = () => {
   return (
     <>
+    <a href="https://github.com/MrBehl06/SandeepBehl">
      <div className='max-sm:flex max-sm:flex-col max-sm:items-center  '>
         <h2 className="text-7xl max-sm:text-[45px] text-center text-[#ccd6f6] font-Poppins cursor-pointer hover:text-sky-400  font-bold mb-5">
-          Some Things I've Build
+          Some Things I've Built
         </h2>
         <hr className=" w-[850px] max-sm:w-[300px]  mx-auto max-sm:mx-0 h-px my-[8px]  bg-gradient-to-r  from-sky-400 to-[#041C32] border-0 rounded " />
       </div>
@@ -37,6 +38,8 @@ The website contains many advanced features of CSS and structured with HTML and 
           </div>
         </div>
       </div>
+      </a>
+      <a href="https://github.com/MrBehl06/HooBank">
       <div className="flex mt-8 relative shadow-3xl  ">
         <div className=''>
           <img className="w-[850px] shadow-xl ml-1 h-[450px] max-sm:hidden  " src={hoobank} alt="" />
@@ -64,6 +67,7 @@ focusing on user-centered design.</p>
           </div>
         </div>
       </div>
+      </a>
     </>
   )
 }
